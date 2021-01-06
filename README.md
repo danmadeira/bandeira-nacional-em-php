@@ -4,9 +4,9 @@ Construção de uma imagem no formato SVG da bandeira do Brasil por meio de scri
 
 O script aceita uma variável externa, pelo método GET, para definir o comprimento da bandeira. Ex.: index.php?c=700
 
-:eyes: Este script utiliza a classe publicada em [Construção de elementos SVG](https://github.com/danmadeira/construcao-elementos-svg)
+:point_right: Este script utiliza a classe publicada em [Construção de elementos SVG](https://github.com/danmadeira/construcao-elementos-svg)
 
-:eyes: Este script constrói um mesmo SVG, bem semelhante, publicado em [Bandeira Nacional](https://github.com/danmadeira/bandeira-nacional)
+:point_right: Este script constrói um mesmo SVG, bem semelhante, publicado em [Bandeira Nacional](https://github.com/danmadeira/bandeira-nacional)
 
 ### Medidas oficiais:
 
