@@ -213,16 +213,18 @@ class SistemaBandeira
     {
         $pontos = array();
         $distancia = sqrt(pow($xc - $xa, 2) + pow($yc - $ya, 2));
-        $area = sqrt(($distancia + $ra + $rc) * ($distancia + $ra - $rc) * ($distancia - $ra + $rc) * (0 - $distancia + $ra + $rc)) / 4;
         
-        $xi1 = ($xa + $xc) / 2 + (($xc - $xa) * (pow($ra, 2) - pow($rc, 2)) / (2 * pow($distancia, 2))) + (2 * (($ya - $yc) / pow($distancia, 2)) * $area);
-        $yi1 = ($ya + $yc) / 2 + (($yc - $ya) * (pow($ra, 2) - pow($rc, 2)) / (2 * pow($distancia, 2))) - (2 * (($xa - $xc) / pow($distancia, 2)) * $area);
-        $xi2 = ($xa + $xc) / 2 + (($xc - $xa) * (pow($ra, 2) - pow($rc, 2)) / (2 * pow($distancia, 2))) - (2 * (($ya - $yc) / pow($distancia, 2)) * $area);
-        $yi2 = ($ya + $yc) / 2 + (($yc - $ya) * (pow($ra, 2) - pow($rc, 2)) / (2 * pow($distancia, 2))) + (2 * (($xa - $xc) / pow($distancia, 2)) * $area);
+        if ($ra + $rc >= $distancia and $distancia > abs($rc - $ra)) {
+            $area = sqrt(($distancia + $ra + $rc) * ($distancia + $ra - $rc) * ($distancia - $ra + $rc) * (0 - $distancia + $ra + $rc)) / 4;
         
-        $pontos['P1'] = array('x' => $xi1, 'y' => $yi1);
-        $pontos['P2'] = array('x' => $xi2, 'y' => $yi2);
+            $xi1 = ($xa + $xc) / 2 + (($xc - $xa) * (pow($ra, 2) - pow($rc, 2)) / (2 * pow($distancia, 2))) + (2 * (($ya - $yc) / pow($distancia, 2)) * $area);
+            $yi1 = ($ya + $yc) / 2 + (($yc - $ya) * (pow($ra, 2) - pow($rc, 2)) / (2 * pow($distancia, 2))) - (2 * (($xa - $xc) / pow($distancia, 2)) * $area);
+            $xi2 = ($xa + $xc) / 2 + (($xc - $xa) * (pow($ra, 2) - pow($rc, 2)) / (2 * pow($distancia, 2))) - (2 * (($ya - $yc) / pow($distancia, 2)) * $area);
+            $yi2 = ($ya + $yc) / 2 + (($yc - $ya) * (pow($ra, 2) - pow($rc, 2)) / (2 * pow($distancia, 2))) + (2 * (($xa - $xc) / pow($distancia, 2)) * $area);
         
+            $pontos['P1'] = array('x' => $xi1, 'y' => $yi1);
+            $pontos['P2'] = array('x' => $xi2, 'y' => $yi2);
+        }
         return $pontos;
     }
     
