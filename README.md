@@ -64,20 +64,20 @@ Ainda não há um consenso sobre qual fonte tipográfica utilizar na legenda Ord
 
 ### Referências:
 
-- Brasil, Presidência da República. Lei nº 5.700, de 1º de setembro de 1971. Seção II Art. 5º. Disponível em: <http://www.planalto.gov.br/ccivil_03/leis/l5700.htm>
+- Brasil, Presidência da República. *Lei nº 5.700, de 1º de setembro de 1971. Seção II Art. 5º*. Disponível em: <http://www.planalto.gov.br/ccivil_03/leis/l5700.htm>
 
-- Brasil, Presidência da República. Decreto nº 70.274/1972, de 9 de março de 1972. Disponível em: <http://www.planalto.gov.br/ccivil_03/decreto/D70274.htm>
+- Brasil, Presidência da República. *Decreto nº 70.274/1972, de 9 de março de 1972*. Disponível em: <http://www.planalto.gov.br/ccivil_03/decreto/D70274.htm>
 
-- Brasil, Presidência da República. Lei n° 8.421, de 11 de maio de 1992. Anexo nº 2. Disponível em: <http://www.planalto.gov.br/ccivil_03/leis/L8421.htm>
+- Brasil, Presidência da República. *Lei n° 8.421, de 11 de maio de 1992. Anexo nº 2*. Disponível em: <http://www.planalto.gov.br/ccivil_03/leis/L8421.htm>
 
-- EISENBERG, J. D.; BELLAMY-ROYDS, A. SVG Essentials, Second Edition. O'Reilly, 2015.
+- COWBURN, P. e col. *Manual do PHP*. PHP Documentation Group. 25 de Dezembro de 2020. Disponível em: <https://www.php.net/manual/pt_BR/index.php>
 
-- FRANÇA, E. A. C. S. Geometria de Distâncias no Ensino Médio. Dissertação (mestrado profissional) - Universidade Federal de Santa Catarina, Centro de Ciências Físicas e Matemáticas. Florianópolis, SC, 2016. Disponível em: <https://repositorio.ufsc.br/bitstream/handle/123456789/175806/345432.pdf>
+- EISENBERG, J. D.; BELLAMY-ROYDS, A. *SVG Essentials, Second Edition*. O'Reilly, 2015.
 
-- Ministério da Defesa. Manual de Identidade Visual. Janeiro, 2015. Disponível em: <https://www.defesa.gov.br/arquivos/lai/institucional/identidade_visual/defesa_manual_de_identidade_visual.pdf>
+- FRANÇA, E. A. C. S. *Geometria de Distâncias no Ensino Médio*. Dissertação (mestrado profissional) - Universidade Federal de Santa Catarina, Centro de Ciências Físicas e Matemáticas. Florianópolis, SC, 2016. Disponível em: <https://repositorio.ufsc.br/bitstream/handle/123456789/175806/345432.pdf>
 
-- COWBURN, P. e col. Manual do PHP. PHP Documentation Group. 25 de Dezembro de 2020. Disponível em: <https://www.php.net/manual/pt_BR/index.php>
+- Ministério da Defesa. *Manual de Identidade Visual*. Janeiro, 2015. Disponível em: <https://www.defesa.gov.br/arquivos/lai/institucional/identidade_visual/defesa_manual_de_identidade_visual.pdf>
 
-- Scalable Vector Graphics (SVG) 1.1 (Second Edition), W3C Recommendation 16 August 2011. Disponível em: <https://www.w3.org/TR/SVG11/>
+- STOVER, C.; WEISSTEIN, E. W. *Polar Coordinates*. MathWorld, A Wolfram Web Resource. Disponível em: <https://mathworld.wolfram.com/PolarCoordinates.html>
 
-- STOVER, C.; WEISSTEIN, E. W. Polar Coordinates. MathWorld, A Wolfram Web Resource. Disponível em: <https://mathworld.wolfram.com/PolarCoordinates.html>
+- W3C *Scalable Vector Graphics (SVG) 1.1 (Second Edition)*, W3C Recommendation 16 August 2011. Disponível em: <https://www.w3.org/TR/SVG11/>
