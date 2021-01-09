@@ -70,6 +70,8 @@ Ainda não há um consenso sobre qual fonte tipográfica utilizar na legenda Ord
 
 - Brasil, Presidência da República. *Lei n° 8.421, de 11 de maio de 1992. Anexo nº 2*. Disponível em: <http://www.planalto.gov.br/ccivil_03/leis/L8421.htm>
 
+- COLLINGRIDGE, P. W. *Circle-circle intersections*. Computational geometry tutorials. 9 May 2020. Disponível em: <https://www.petercollingridge.co.uk/tutorials/computational-geometry/circle-circle-intersections/>
+
 - COWBURN, P. e col. *Manual do PHP*. PHP Documentation Group. 25 de Dezembro de 2020. Disponível em: <https://www.php.net/manual/pt_BR/index.php>
 
 - EISENBERG, J. D.; BELLAMY-ROYDS, A. *SVG Essentials, Second Edition*. O'Reilly, 2015.
